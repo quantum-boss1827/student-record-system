@@ -1,11 +1,19 @@
 # Student Record System
 
-This is a Python project I built to practice programming.
+A simple Python project for managing student records.
 
 ## Features
 - Add student
 - Search student
 - Delete student
 
-## Goal
-To improve my coding and problem-solving skills.
+## How to Run
+1. Make sure Python is installed
+2. Run the file:
+   python student.py
+
+## What I Learned
+- Functions
+- Loops
+- File handling
+- Problem solving
